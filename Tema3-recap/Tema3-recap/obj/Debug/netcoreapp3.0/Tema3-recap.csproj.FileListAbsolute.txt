@@ -1,0 +1,11 @@
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\bin\Debug\netcoreapp3.0\Tema3-recap.exe
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\bin\Debug\netcoreapp3.0\Tema3-recap.deps.json
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\bin\Debug\netcoreapp3.0\Tema3-recap.runtimeconfig.json
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\bin\Debug\netcoreapp3.0\Tema3-recap.runtimeconfig.dev.json
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\bin\Debug\netcoreapp3.0\Tema3-recap.dll
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\bin\Debug\netcoreapp3.0\Tema3-recap.pdb
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\obj\Debug\netcoreapp3.0\Tema3-recap.csprojAssemblyReference.cache
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\obj\Debug\netcoreapp3.0\Tema3-recap.AssemblyInfoInputs.cache
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\obj\Debug\netcoreapp3.0\Tema3-recap.AssemblyInfo.cs
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\obj\Debug\netcoreapp3.0\Tema3-recap.dll
+C:\SIT\Homework\recap-CristianCovaliu\Tema3-recap\Tema3-recap\obj\Debug\netcoreapp3.0\Tema3-recap.pdb

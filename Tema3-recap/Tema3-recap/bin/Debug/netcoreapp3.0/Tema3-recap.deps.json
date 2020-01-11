@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Tema3-recap/1.0.0": {
+        "runtime": {
+          "Tema3-recap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tema3-recap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
